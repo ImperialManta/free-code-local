@@ -1,0 +1,12 @@
+node_modules/
+dist/
+cli
+cli-dev
+openclaw/
+
+# 個人設定、對話記錄、config（含 IP、session 等，不上傳）
+.claude-local/
+
+# 本機環境設定
+.env
+.env.local
